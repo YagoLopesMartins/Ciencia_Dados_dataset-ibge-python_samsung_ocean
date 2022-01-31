@@ -1,0 +1,27 @@
+Cidade: Manaus - Estado: Amazonas - PIB: 36445.75
+Cidade: Vitória do Xingu - Estado: Pará - PIB: 291967.12
+Cidade: Pimenteiras do Oeste - Estado: Rondônia - PIB: 47731.23
+Cidade: Epitaciolândia - Estado: Acre - PIB: 25349.75
+Cidade: Cariri do Tocantins - Estado: Tocantins - PIB: 80738.87
+Cidade: Boa Vista - Estado: Roraima - PIB: 26752.67
+Cidade: Ferreira Gomes - Estado: Amapá - PIB: 70268.95
+Cidade: Campos de Júlio - Estado: Mato Grosso - PIB: 206666.65
+Cidade: Davinópolis - Estado: Goiás - PIB: 185551.06
+Cidade: Selvíria - Estado: Mato Grosso do Sul - PIB: 362080.40
+Cidade: Brasília - Estado: Distrito Federal - PIB: 85661.39
+Cidade: Tasso Fragoso - Estado: Maranhão - PIB: 137687.07
+Cidade: Baixa Grande do Ribeiro - Estado: Piauí - PIB: 82913.59
+Cidade: São Gonçalo do Amarante - Estado: Ceará - PIB: 87086.02
+Cidade: Bodó - Estado: Rio Grande do Norte - PIB: 142806.57
+Cidade: Alhandra - Estado: Paraíba - PIB: 63198.20
+Cidade: Ipojuca - Estado: Pernambuco - PIB: 122169.48
+Cidade: Santana do Mundaú - Estado: Alagoas - PIB: 101744.85
+Cidade: Canindé de São Francisco - Estado: Sergipe - PIB: 73005.72
+Cidade: São Francisco do Conde - Estado: Bahia - PIB: 225290.31
+Cidade: Ilhabela - Estado: São Paulo - PIB: 419457.22
+Cidade: São Gonçalo do Rio Abaixo - Estado: Minas Gerais - PIB: 337288.81
+Cidade: Presidente Kennedy - Estado: Espírito Santo - PIB: 583171.85
+Cidade: São João da Barra - Estado: Rio de Janeiro - PIB: 199339.81
+Cidade: Saudade do Iguaçu - Estado: Paraná - PIB: 145266.27
+Cidade: Piratuba - Estado: Santa Catarina - PIB: 155119.78
+Cidade: Triunfo - Estado: Rio Grande do Sul - PIB: 304208.49
